@@ -1,0 +1,12 @@
+{
+  "name": "netdata-monitored-node-app",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js app containerized for Netdata performance monitoring",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Santhosh Reddy",
+  "license": "MIT",
+  "dependencies": {}
+}
